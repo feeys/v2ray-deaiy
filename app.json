@@ -21,8 +21,8 @@
       "required": true
     }
   },
-  "website": "https://github.com/ feeys /v2ray-dj",
-  "repository": "https://github.com/ feeys /v2ray-dj",
+  "website": "https://github.com/ feeys /v2ray-deaiy",
+  "repository": "https://github.com/ feeys /v2ray-deaiy",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
